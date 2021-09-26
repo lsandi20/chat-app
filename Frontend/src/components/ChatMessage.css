@@ -1,0 +1,61 @@
+.triangle {
+  padding: 0px;
+  background-color: transparent;
+  width:0;
+  height:0;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.triangle:focus {
+  outline-color: transparent;
+}
+
+.triangle-left {
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-left: 10px solid transparent;
+  border-right: 10px solid rgb(248,249,250);
+}
+
+.delete-btn {
+  width: 50px;
+  height: 50px;
+  color: white;
+  border: 5px solid rgb(248,249,250);
+}
+
+
+.delete-btn:hover {
+  border: 5px solid rgb(248,249,250);
+}
+
+.chatmessage {
+  position: relative;
+}
+
+.line {
+  background-color: rgb(248,249,250);
+  width: 5px;
+  height: calc(100% + 16px);
+  margin-left: 22.5px;
+  position: absolute;
+  z-index: -1;
+  
+}
+
+.resendshow {
+  display: block;
+}
+
+.resendhide {
+  display: none;
+}
+
+.editshow {
+  display: block;
+}
+
+.edithide {
+  display: none;
+}

@@ -1,6 +1,6 @@
 # COMMENT APP
 
-This is a chat app that consist of Frontend and Backend application using REST API.
+This is a comment app that consist of Frontend and Backend application using REST API.
 
 ## Backend
 

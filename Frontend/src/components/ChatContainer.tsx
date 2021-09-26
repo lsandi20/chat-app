@@ -144,7 +144,7 @@ class ChatContainer extends React.Component<{}, State> {
     return (
       <>
         <div className="card bg-light mb-3">
-          <div className="card-body text-center"><h3>Chat App</h3></div>
+          <div className="card-body text-center"><h3>Comment App</h3></div>
         </div>
         <div className="d-flex flex-row chatcontainer">
           <div className="w-100">
